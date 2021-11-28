@@ -92,3 +92,7 @@
 	#menu input:checked + label:before {content:"\00d7"}
 	#menu input:checked ~ ul {display:block}
 }
+
+b {
+	box-shadow: 0px 0px 10px 3px rgba(73, 245, 23, 1);
+}
