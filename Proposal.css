@@ -100,3 +100,9 @@ div {
 	padding-bottom: 20px;
 }
 
+p {
+	text-indent: 50px;
+	line-height: 1.8px;
+	font-family: "times new roman", times, serif;
+}
+
