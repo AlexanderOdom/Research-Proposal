@@ -105,3 +105,6 @@ p {
 	font-family: "times new roman", times, serif;
 }
 
+p.big {
+	line-height: 1.8px;
+}
